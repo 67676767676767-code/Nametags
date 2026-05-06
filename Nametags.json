@@ -1,0 +1,637 @@
+{
+  "Version": "1.0",
+
+  "Owners": {
+    "000000001": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Purple"
+    },
+    "000000002": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Purple"
+    },
+    "000000003": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Purple"
+    }
+  },
+
+  "Admins": {
+    "000000004": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Red"
+    },
+    "000000005": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Red"
+    },
+    "000000006": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Red"
+    },
+    "000000007": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Red"
+    },
+    "000000008": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Red"
+    }
+  },
+
+  "CustomTags": {
+    "000000009": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000010": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000011": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000012": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000013": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000014": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000015": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000016": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000017": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000018": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000019": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000020": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000021": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000022": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000023": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000024": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000025": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000026": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000027": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000028": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000029": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000030": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000031": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000032": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000033": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000034": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000035": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000036": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000037": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000038": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000039": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000040": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000041": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000042": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000043": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000044": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000045": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000046": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000047": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000048": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000049": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000050": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000051": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000052": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000053": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000054": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000055": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000056": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000057": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    },
+    "000000058": {
+      "CustomName": "",
+      "DecalId": "",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan",
+      "TagColor": "Cyan",
+      "Shimmer": false,
+      "Animation": "none"
+    }
+  },
+
+  "AvailableFonts": [
+    "GothamBlack",
+    "GothamBold",
+    "Gotham",
+    "GothamMedium",
+    "SourceSans",
+    "SourceSansBold",
+    "SourceSansLight",
+    "SourceSansSemibold",
+    "RobotoMono",
+    "Ubuntu",
+    "Nunito",
+    "FredokaOne",
+    "Bangers",
+    "Arcade",
+    "Fantasy",
+    "Highway",
+    "SciFi"
+  ],
+
+  "AvailableNameColors": [
+    "Cyan",
+    "Red",
+    "Purple",
+    "Gold",
+    "Emerald",
+    "Sunset",
+    "Ice",
+    "Neon",
+    "Rose",
+    "Ocean",
+    "Lava",
+    "Mint",
+    "Sakura",
+    "Toxic",
+    "Silver",
+    "White",
+    "Amethyst",
+    "Crimson",
+    "Cobalt",
+    "Amber",
+    "Jade",
+    "Lilac",
+    "Coral",
+    "Slate",
+    "Maroon",
+    "Teal",
+    "Peach",
+    "Indigo",
+    "Lime",
+    "Bronze",
+    "Ruby",
+    "Sky",
+    "Ivory",
+    "Obsidian",
+    "Scarlet",
+    "Turquoise"
+  ],
+
+  "AvailableAnimations": [
+    "none",
+    "pulse",
+    "rainbow",
+    "wave",
+    "flicker",
+    "bounce",
+    "glow",
+    "fire",
+    "ice",
+    "electric"
+  ],
+
+  "CustomColors": {
+    "Cyan":      [0,   255, 255],
+    "Red":       [255, 50,  50],
+    "Purple":    [180, 0,   255],
+    "Gold":      [255, 215, 0],
+    "Emerald":   [0,   200, 100],
+    "Sunset":    [255, 140, 0],
+    "Ice":       [180, 230, 255],
+    "Neon":      [57,  255, 20],
+    "Rose":      [255, 100, 150],
+    "Ocean":     [0,   120, 200],
+    "Lava":      [255, 80,  0],
+    "Mint":      [100, 255, 180],
+    "Sakura":    [255, 180, 210],
+    "Toxic":     [150, 255, 0],
+    "Silver":    [180, 180, 200],
+    "White":     [255, 255, 255],
+    "Amethyst":  [150, 80,  220],
+    "Crimson":   [220, 20,  60],
+    "Cobalt":    [0,   80,  200],
+    "Amber":     [255, 190, 0],
+    "Jade":      [0,   168, 107],
+    "Lilac":     [200, 160, 255],
+    "Coral":     [255, 127, 80],
+    "Slate":     [112, 128, 144],
+    "Maroon":    [128, 0,   0],
+    "Teal":      [0,   180, 170],
+    "Peach":     [255, 200, 160],
+    "Indigo":    [75,  0,   130],
+    "Lime":      [180, 255, 0],
+    "Bronze":    [205, 127, 50],
+    "Ruby":      [200, 0,   50],
+    "Sky":       [135, 206, 235],
+    "Ivory":     [255, 250, 220],
+    "Obsidian":  [30,  20,  40],
+    "Scarlet":   [255, 36,  0],
+    "Turquoise": [64,  224, 208]
+  },
+
+  "Ranks": {
+    "user": {
+      "label": "LYNX USER",
+      "strokeCol": [60, 0, 100],
+      "strokeThick": 1.2,
+      "rankCol": [110, 0, 180],
+      "userCol": [120, 100, 140],
+      "orbs": false,
+      "orbColor": [0, 0, 0],
+      "shimmer": false,
+      "animation": "none",
+      "Font": "Gotham",
+      "NameColor": "Silver"
+    }
+  }
+}
