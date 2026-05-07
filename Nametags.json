@@ -8,7 +8,7 @@
       "Font": "GothamBlack",
       "NameColor": "Purple"
     },
-    "10819220760": {
+    "00000000": {
       "CustomName": "nigger",
       "DecalId": "",
       "Font": "GothamBlack",
@@ -23,11 +23,11 @@
   },
 
   "Admins": {
-    "000000004": {
-      "CustomName": "",
+    "10819220760": {
+      "CustomName": "I HATE PEOPLE",
       "DecalId": "",
-      "Font": "GothamBlack",
-      "NameColor": "Red"
+      "Font": "SCIFI",
+      "NameColor": "cyan"
     },
     "000000005": {
       "CustomName": "",
